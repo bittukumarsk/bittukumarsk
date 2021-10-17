@@ -55,7 +55,7 @@
 - [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/UCyvtuqSQ5F6ge4lP2cveyxA)
 
 ---
 
