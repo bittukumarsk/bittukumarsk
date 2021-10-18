@@ -1,4 +1,4 @@
-### Hi there, I'm Bittu Kumar - aka [bittukumarsk][website] 👋
+# Hi there, I'm Bittu Kumar - aka [bittukumarsk][website] 👋
 <br />
 
 [![Website](https://img.shields.io/website?label=bittukumar&style=for-the-badge&url=https%3A%2F%2Fbittukumarsk.github.io)](https://bittukumarsk.github.io)
